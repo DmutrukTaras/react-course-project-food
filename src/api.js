@@ -12,8 +12,8 @@ const getAllCategories = async () => {
     return await response.json();
 }
 
-const getFilterByIngredient = async (ingName) => {
-    const response = await fetch(API_URL + `filter.php?i=` + ingName)
+const getFilterByArea = async (aName) => {
+    const response = await fetch(API_URL + `filter.php?a=` + aName)
     return await response.json();
 }
 
@@ -37,7 +37,7 @@ export {
     getMealById,
     getAllCategories,
     getFilterByCategories,
-    getFilterByIngredient,
+    getFilterByArea,
     getMealByName,
     getRandomMeal
 };

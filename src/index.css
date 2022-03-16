@@ -31,6 +31,25 @@ nav {
 .card-content {
   flex-grow: 1;
 }
+
+.btn-go-back{
+  width: 100px;
+  position: absolute;
+  top: 1rem;
+  right: 20rem;
+}
+@media (max-width:767px) {
+  .btn-go-back{
+    width: 100%;
+    position: inherit;
+    right: unset;
+  }
+}
+
+.video, .image{
+  text-align: center;
+}
+
 img,
 iframe {
   max-width: 100%;
