@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-course-project-food/static/css/main.d1dcb7a1.css",
-    "main.js": "/react-course-project-food/static/js/main.3fe619eb.js",
+    "main.js": "/react-course-project-food/static/js/main.f2aeb792.js",
     "index.html": "/react-course-project-food/index.html",
     "main.d1dcb7a1.css.map": "/react-course-project-food/static/css/main.d1dcb7a1.css.map",
-    "main.3fe619eb.js.map": "/react-course-project-food/static/js/main.3fe619eb.js.map"
+    "main.f2aeb792.js.map": "/react-course-project-food/static/js/main.f2aeb792.js.map"
   },
   "entrypoints": [
     "static/css/main.d1dcb7a1.css",
-    "static/js/main.3fe619eb.js"
+    "static/js/main.f2aeb792.js"
   ]
 }
